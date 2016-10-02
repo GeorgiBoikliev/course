@@ -1,0 +1,7 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad1 sum of 2 int\bin\Debug\zad1.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\1\bin\Debug\zad1.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\1\bin\Debug\zad1.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\1\bin\Debug\zad1.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\1\obj\Debug\Uprajneniq 2 homework.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\My course\Домашни 2\1\obj\Debug\zad1.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\1\obj\Debug\zad1.pdb

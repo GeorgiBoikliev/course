@@ -1,0 +1,12 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad6 realno chislo\Zad6 Realno\Zad6 Realno\bin\Debug\Zad6 Realno.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad6 realno chislo\Zad6 Realno\Zad6 Realno\bin\Debug\Zad6 Realno.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad6 realno chislo\Zad6 Realno\Zad6 Realno\bin\Debug\Zad6 Realno.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad6 realno chislo\Zad6 Realno\Zad6 Realno\obj\Debug\Zad6 Realno.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad6 realno chislo\Zad6 Realno\Zad6 Realno\obj\Debug\Zad6 Realno.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad6 realno chislo\Zad6 Realno\Zad6 Realno\obj\Debug\Zad6 Realno.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\6\Zad6 Realno\Zad6 Realno\bin\Debug\Zad6 Realno.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\6\Zad6 Realno\Zad6 Realno\obj\Debug\Zad6 Realno.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\6\Zad6 Realno\Zad6 Realno\obj\Debug\Zad6 Realno.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\6\Zad6 Realno\Zad6 Realno\bin\Debug\Zad6 Realno.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\6\Zad6 Realno\Zad6 Realno\bin\Debug\Zad6 Realno.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\6\Zad6 Realno\Zad6 Realno\obj\Debug\Zad6 Realno.csprojResolveAssemblyReference.cache

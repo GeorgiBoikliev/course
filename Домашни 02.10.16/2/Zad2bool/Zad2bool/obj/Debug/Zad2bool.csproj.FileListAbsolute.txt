@@ -1,0 +1,12 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad2 bool izraz\Zad2bool\Zad2bool\bin\Debug\Zad2bool.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad2 bool izraz\Zad2bool\Zad2bool\bin\Debug\Zad2bool.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad2 bool izraz\Zad2bool\Zad2bool\bin\Debug\Zad2bool.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad2 bool izraz\Zad2bool\Zad2bool\obj\Debug\Zad2bool.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad2 bool izraz\Zad2bool\Zad2bool\obj\Debug\Zad2bool.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad2 bool izraz\Zad2bool\Zad2bool\obj\Debug\Zad2bool.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\2\Zad2bool\Zad2bool\bin\Debug\Zad2bool.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\2\Zad2bool\Zad2bool\obj\Debug\Zad2bool.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\2\Zad2bool\Zad2bool\obj\Debug\Zad2bool.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\2\Zad2bool\Zad2bool\bin\Debug\Zad2bool.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\2\Zad2bool\Zad2bool\bin\Debug\Zad2bool.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\2\Zad2bool\Zad2bool\obj\Debug\Zad2bool.csprojResolveAssemblyReference.cache

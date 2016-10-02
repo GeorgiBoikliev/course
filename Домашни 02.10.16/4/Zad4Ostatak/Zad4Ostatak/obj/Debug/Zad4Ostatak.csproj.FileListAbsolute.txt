@@ -1,0 +1,12 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad4 ostatak ot delene\Zad4Ostatak\Zad4Ostatak\bin\Debug\Zad4Ostatak.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad4 ostatak ot delene\Zad4Ostatak\Zad4Ostatak\bin\Debug\Zad4Ostatak.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad4 ostatak ot delene\Zad4Ostatak\Zad4Ostatak\bin\Debug\Zad4Ostatak.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad4 ostatak ot delene\Zad4Ostatak\Zad4Ostatak\obj\Debug\Zad4Ostatak.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad4 ostatak ot delene\Zad4Ostatak\Zad4Ostatak\obj\Debug\Zad4Ostatak.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad4 ostatak ot delene\Zad4Ostatak\Zad4Ostatak\obj\Debug\Zad4Ostatak.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\4\Zad4Ostatak\Zad4Ostatak\bin\Debug\Zad4Ostatak.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\4\Zad4Ostatak\Zad4Ostatak\obj\Debug\Zad4Ostatak.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\4\Zad4Ostatak\Zad4Ostatak\obj\Debug\Zad4Ostatak.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\4\Zad4Ostatak\Zad4Ostatak\bin\Debug\Zad4Ostatak.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\4\Zad4Ostatak\Zad4Ostatak\bin\Debug\Zad4Ostatak.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\4\Zad4Ostatak\Zad4Ostatak\obj\Debug\Zad4Ostatak.csprojResolveAssemblyReference.cache

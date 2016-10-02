@@ -1,0 +1,12 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad7 prov string\Zad7 prov string\Zad7 prov string\bin\Debug\Zad7 prov string.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad7 prov string\Zad7 prov string\Zad7 prov string\bin\Debug\Zad7 prov string.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad7 prov string\Zad7 prov string\Zad7 prov string\bin\Debug\Zad7 prov string.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad7 prov string\Zad7 prov string\Zad7 prov string\obj\Debug\Zad7 prov string.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad7 prov string\Zad7 prov string\Zad7 prov string\obj\Debug\Zad7 prov string.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad7 prov string\Zad7 prov string\Zad7 prov string\obj\Debug\Zad7 prov string.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\7\Zad7 prov string\Zad7 prov string\bin\Debug\Zad7 prov string.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\7\Zad7 prov string\Zad7 prov string\obj\Debug\Zad7 prov string.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\7\Zad7 prov string\Zad7 prov string\obj\Debug\Zad7 prov string.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\7\Zad7 prov string\Zad7 prov string\bin\Debug\Zad7 prov string.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\7\Zad7 prov string\Zad7 prov string\bin\Debug\Zad7 prov string.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\7\Zad7 prov string\Zad7 prov string\obj\Debug\Zad7 prov string.csprojResolveAssemblyReference.cache

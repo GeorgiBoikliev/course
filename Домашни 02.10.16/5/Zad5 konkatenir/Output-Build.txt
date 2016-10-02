@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Zad5 konkatenir, Configuration: Debug Any CPU ------
+1>  Zad5 konkatenir -> C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad5 konkatenir\Zad5 konkatenir\Zad5 konkatenir\bin\Debug\Zad5 konkatenir.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

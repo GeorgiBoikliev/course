@@ -1,0 +1,12 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad5 konkatenir\Zad5 konkatenir\Zad5 konkatenir\bin\Debug\Zad5 konkatenir.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad5 konkatenir\Zad5 konkatenir\Zad5 konkatenir\obj\Debug\Zad5 konkatenir.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad5 konkatenir\Zad5 konkatenir\Zad5 konkatenir\bin\Debug\Zad5 konkatenir.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad5 konkatenir\Zad5 konkatenir\Zad5 konkatenir\bin\Debug\Zad5 konkatenir.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad5 konkatenir\Zad5 konkatenir\Zad5 konkatenir\obj\Debug\Zad5 konkatenir.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad5 konkatenir\Zad5 konkatenir\Zad5 konkatenir\obj\Debug\Zad5 konkatenir.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\5\Zad5 konkatenir\Zad5 konkatenir\bin\Debug\Zad5 konkatenir.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\5\Zad5 konkatenir\Zad5 konkatenir\obj\Debug\Zad5 konkatenir.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\5\Zad5 konkatenir\Zad5 konkatenir\obj\Debug\Zad5 konkatenir.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\5\Zad5 konkatenir\Zad5 konkatenir\bin\Debug\Zad5 konkatenir.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\5\Zad5 konkatenir\Zad5 konkatenir\bin\Debug\Zad5 konkatenir.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\5\Zad5 konkatenir\Zad5 konkatenir\obj\Debug\Zad5 konkatenir.csprojResolveAssemblyReference.cache

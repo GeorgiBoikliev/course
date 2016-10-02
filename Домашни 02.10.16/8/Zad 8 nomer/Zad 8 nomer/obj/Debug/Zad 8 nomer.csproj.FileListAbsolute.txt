@@ -1,0 +1,12 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad8 nomer na simvol\Zad 8 nomer\Zad 8 nomer\bin\Debug\Zad 8 nomer.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad8 nomer na simvol\Zad 8 nomer\Zad 8 nomer\obj\Debug\Zad 8 nomer.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad8 nomer na simvol\Zad 8 nomer\Zad 8 nomer\bin\Debug\Zad 8 nomer.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad8 nomer na simvol\Zad 8 nomer\Zad 8 nomer\bin\Debug\Zad 8 nomer.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad8 nomer na simvol\Zad 8 nomer\Zad 8 nomer\obj\Debug\Zad 8 nomer.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad8 nomer na simvol\Zad 8 nomer\Zad 8 nomer\obj\Debug\Zad 8 nomer.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\8\Zad 8 nomer\Zad 8 nomer\bin\Debug\Zad 8 nomer.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\8\Zad 8 nomer\Zad 8 nomer\obj\Debug\Zad 8 nomer.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\8\Zad 8 nomer\Zad 8 nomer\obj\Debug\Zad 8 nomer.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\8\Zad 8 nomer\Zad 8 nomer\bin\Debug\Zad 8 nomer.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\8\Zad 8 nomer\Zad 8 nomer\bin\Debug\Zad 8 nomer.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\8\Zad 8 nomer\Zad 8 nomer\obj\Debug\Zad 8 nomer.csprojResolveAssemblyReference.cache

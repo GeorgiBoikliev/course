@@ -1,0 +1,12 @@
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad3 triagalnik\zad3 triagalnik\zad3 triagalnik\bin\Debug\zad3 triagalnik.exe.config
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad3 triagalnik\zad3 triagalnik\zad3 triagalnik\obj\Debug\zad3 triagalnik.csprojResolveAssemblyReference.cache
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad3 triagalnik\zad3 triagalnik\zad3 triagalnik\bin\Debug\zad3 triagalnik.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad3 triagalnik\zad3 triagalnik\zad3 triagalnik\bin\Debug\zad3 triagalnik.pdb
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad3 triagalnik\zad3 triagalnik\zad3 triagalnik\obj\Debug\zad3 triagalnik.exe
+C:\Users\А\Desktop\IT Soft Intellect\ADStefanov-homework\ADStefanov-homework\Zanyatie 2 datatypeexamples\zad3 triagalnik\zad3 triagalnik\zad3 triagalnik\obj\Debug\zad3 triagalnik.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\3\zad3 triagalnik\zad3 triagalnik\bin\Debug\zad3 triagalnik.exe.config
+C:\Users\Hp\Desktop\My course\Домашни 2\3\zad3 triagalnik\zad3 triagalnik\obj\Debug\zad3 triagalnik.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\3\zad3 triagalnik\zad3 triagalnik\obj\Debug\zad3 triagalnik.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\3\zad3 triagalnik\zad3 triagalnik\bin\Debug\zad3 triagalnik.exe
+C:\Users\Hp\Desktop\My course\Домашни 2\3\zad3 triagalnik\zad3 triagalnik\bin\Debug\zad3 triagalnik.pdb
+C:\Users\Hp\Desktop\My course\Домашни 2\3\zad3 triagalnik\zad3 triagalnik\obj\Debug\zad3 triagalnik.csprojResolveAssemblyReference.cache
